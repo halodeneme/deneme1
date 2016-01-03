@@ -82,3 +82,4 @@ namespace Ui {
 QT_END_NAMESPACE
 
 #endif // UI_MAINWINDOW_H
+// bakalým bu yazýyý görebilecek mi
